@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractVeInterfaceKavrami", "AbstractVeInterfaceKavrami\AbstractVeInterfaceKavrami.csproj", "{6CEDDF66-8BDD-4C0A-AC72-DA1DD08BEB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEDDF66-8BDD-4C0A-AC72-DA1DD08BEB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEDDF66-8BDD-4C0A-AC72-DA1DD08BEB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEDDF66-8BDD-4C0A-AC72-DA1DD08BEB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEDDF66-8BDD-4C0A-AC72-DA1DD08BEB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48081005-903B-4072-B6BA-072286F97C72}
+	EndGlobalSection
+EndGlobal

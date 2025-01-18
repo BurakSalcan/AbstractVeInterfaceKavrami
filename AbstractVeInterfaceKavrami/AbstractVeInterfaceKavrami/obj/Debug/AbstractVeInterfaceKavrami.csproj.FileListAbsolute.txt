@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\AbstractVeInterfaceKavrami\AbstractVeInterfaceKavrami\bin\Debug\AbstractVeInterfaceKavrami.exe.config
+C:\Users\burak\source\repos\AbstractVeInterfaceKavrami\AbstractVeInterfaceKavrami\bin\Debug\AbstractVeInterfaceKavrami.exe
+C:\Users\burak\source\repos\AbstractVeInterfaceKavrami\AbstractVeInterfaceKavrami\bin\Debug\AbstractVeInterfaceKavrami.pdb
+C:\Users\burak\source\repos\AbstractVeInterfaceKavrami\AbstractVeInterfaceKavrami\obj\Debug\AbstractVeInterfaceKavrami.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\AbstractVeInterfaceKavrami\AbstractVeInterfaceKavrami\obj\Debug\AbstractVeInterfaceKavrami.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\AbstractVeInterfaceKavrami\AbstractVeInterfaceKavrami\obj\Debug\AbstractVeInterfaceKavrami.exe
+C:\Users\burak\source\repos\AbstractVeInterfaceKavrami\AbstractVeInterfaceKavrami\obj\Debug\AbstractVeInterfaceKavrami.pdb
